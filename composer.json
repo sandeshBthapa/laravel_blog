@@ -1,5 +1,5 @@
 {
-    "name": "madalintomescu/laravel-blog",
+    "name": "blog/laravel-blog",
     "description": "A basic blog system based on Laravel.",
     "keywords": ["blog", "laravel"],
     "license": "MIT",
